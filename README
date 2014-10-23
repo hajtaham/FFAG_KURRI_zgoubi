@@ -1,0 +1,16 @@
+KURRI transfer line Simulation
+==============================
+
+Simulation model for the transfer line from the 11MeV Linac to the ring
+
+
+RUNNING
+=======
+
+Lattices should be run from the directory containing the input file "zgoubi.dat"
+
+path to zgoubi/zgoubi.dat
+
+
+
+
